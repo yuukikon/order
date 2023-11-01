@@ -1,0 +1,76 @@
+body {
+    background-color: lightsalmon;
+    font-family: sans-serif;
+    padding: 20px;
+}
+h1 {
+    font: 40px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+h2 {
+    font-size: 25px;
+}
+.established {
+    font-style: italic;
+}
+h1, h2, p {
+    text-align: center;
+    color: lightblue;
+}
+.order {
+    width: 80%;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+hr {
+    height: 2px;
+    background-color: salmon;
+    border-color: salmon;
+}
+
+.line {
+    margin-top: 20px;
+}
+
+h1, h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+.item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+.foods, .drinks {
+    text-align: left;
+    width: 65%;
+}
+
+.price {
+    text-align: right;
+    width: 25%;
+}
+
+footer {
+    font-size: 15px;
+}
+a {
+    color: white;
+}
+
+a:visited {
+    color: lightblue;
+}
+
+a:hover {
+    color: salmon;
+}
+
+a:active {
+    color: salmon;
+}
